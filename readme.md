@@ -1,4 +1,4 @@
-class with measures: <b>com.bushemi.Main</b>
+class with measures: <b>com.bushemi.Main</b><br/>
 Different strategies in different order. Numbers in nanos.
 
 with given parameters <br/>
